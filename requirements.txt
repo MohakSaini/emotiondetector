@@ -1,5 +1,5 @@
+opencv-python
 streamlit
-scikit-learn
-pandas
-joblib
-emoji
+fer
+numpy
+Pillow
